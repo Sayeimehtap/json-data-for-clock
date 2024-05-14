@@ -1,17 +1,17 @@
 [
   {
     "startDate": "14/5/2024",
-    "projectTitle": "FORD V769 BEV",
     "finalDate": "14/6/2024"
-  },
-  {
-    "startDate": "14/5/24",
-    "projectTitle": "FORD E559 CEV",
-    "finalDate": "20/5/2024"
+    "projectTitle": "FORD V769 BEV",
   },
   {
     "startDate": "14/5/2024",
-    "projectTitle": "FORD KKK59 DEV",
+    "finalDate": "20/5/2024"
+    "projectTitle": "FORD E559 CEV",
+  },
+  {
+    "startDate": "14/5/2024",
     "finalDate": "22/07/2024"
+    "projectTitle": "FORD KKK59 DEV",
   }
 ]
